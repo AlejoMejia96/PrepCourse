@@ -15,7 +15,7 @@ describe('imprimirSumaNumeros()', function() {
 });
   
 describe('encuentraPares(array)', function() {
-  it('Deberia devolver un arreglo con los pares encontrados en el arreglado pasado como parámetro', function() {
+  it('Deberia devolver un arreglo con los pares encontrados en el arreglo de enteros pasado como parámetro', function() {
     expect(encuentraPares([2,5,6,8,10,3])).toEqual([2,6,8,10]);
   });
 });
