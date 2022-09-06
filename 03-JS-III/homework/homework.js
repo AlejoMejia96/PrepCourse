@@ -12,7 +12,7 @@ function imprimirSumaNumeros() {
 
 function encuentraPares(array){
   // Devuelve un arreglo con los pares encontrados
-  // en el arreglado de enteros pasado como parámetro
+  // en el arreglo de enteros pasado como parámetro
   // Tu código:
 }
 
