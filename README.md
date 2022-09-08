@@ -51,7 +51,7 @@ Más adelante te explicaremos cómo usar la herramienta.
 
 **Clases de apoyo en vivo:** Los días lunes, miércoles y jueves desde el 12 y hasta el 22 de septiembre, se estará llevando a cabo el Prep Course en vivo: un espacio en donde cada uno de estos seis días, un instructor dictará una clase correspondiente a un tema particular, seis sesiones en total, del material de este repositorio el cual se encuentra separado por carpetas. Se realizará la introducción del contenido, los conceptos a estudiar, ejemplos ilustrativos de estos, aclaración de dudas y, al día siguiente, la solución de la homework correspondiente al día anterior, antes de iniciar la nueva clase. La dinámica es la misma a lo largo de los seis días. Los días que no hay Prep Course en vivo, pueden aprovecharlos para repasar aún más los temas vistos en las sesiones anteriores.
 
-Las clases se llevarán a cabo en el horario 19 - 22 hrs ARG (GMT-3). 
+Las clases se llevarán a cabo en el horario 19 - 22 hrs COL / MEX (GMT-5). 
 
 Si no pudiste ingresar a alguna de las sesiones, no te preocupes, puedes ver la clase grabada al día siguiente. 
 
